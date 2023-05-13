@@ -10,7 +10,9 @@ In 2018, I earned a Bachelor of Science (BS) in Information Technologies. I love
 *   ✉️  You can contact me at [louisa@louisajones.dev](mailto:louisa@louisajones.dev)
 *   🧠  I'm learning backend development
 *   🤝  I'm open to collaborating on projects
-*   ⚡  I love robots. Specifically Transformers. It is one of three things, I'm proud to have passed on to my kids.### Skills 
+*   ⚡  I love robots. Specifically Transformers. It is one of three things, I'm proud to have passed on to my kids.
+*   
+*   Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -26,7 +28,7 @@ In 2018, I earned a Bachelor of Science (BS) in Information Technologies. I love
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
-                  ### Socials
+                   Socials
                   
                   
                 <p align="left">
